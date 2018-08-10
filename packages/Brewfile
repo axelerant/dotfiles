@@ -1,0 +1,86 @@
+# === Taps ===
+
+tap "colindean/fonts-nonfree"
+tap "drud/ddev"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/fuse"
+tap "homebrew/services"
+
+# === Casks ===
+
+# IDEs
+cask "phpstorm"
+cask "sublime-text"
+cask "visual-studio-code"
+
+# Developer Tools
+cask "docker"
+cask "fork"
+cask "hyper"
+cask "iterm2"
+cask "kdiff3"
+cask "lando"
+cask "meld"
+cask "postman"
+cask "sequel-pro"
+cask "vagrant"
+cask "virtualbox"
+
+# Browsers
+cask "google-chrome"
+cask "firefox"
+
+# Work Tools
+cask "dropbox"
+cask "slack"
+cask "zoomus"
+
+# System Utilities
+cask "the-unarchiver"
+
+# Media
+cask "vlc"
+
+# Misc
+cask "osxfuse"
+cask "colindean/fonts-nonfree/font-microsoft-office"
+
+# === Formulae ===
+
+brew "openssl"
+brew "bash"
+brew "gettext"
+brew "composer"
+brew "coreutils"
+brew "dnsmasq", restart_service: true
+brew "ffmpeg"
+brew "fish"
+brew "git"
+brew "gnu-sed", args: ["with-default-names"]
+brew "gpatch"
+brew "highlight"
+brew "htop"
+brew "jq"
+brew "kubernetes-cli"
+brew "librsvg"
+brew "libxml2"
+brew "readline"
+brew "mas"
+brew "mosh"
+brew "ntfs-3g"
+brew "php"
+brew "pv"
+brew "python"
+brew "ripgrep"
+brew "terminal-notifier"
+brew "tig"
+brew "tree"
+brew "watch"
+brew "wget"
+brew "yarn"
+brew "drud/ddev/ddev"
+
+# === Mac App Store Applications ===
+mas 'LastPass', id: 926036361
