@@ -25,5 +25,6 @@
         "tab.activeBorder": "#388E3C",
         "notificationLink.foreground": "#388E3C"
     },
-    "materialTheme.fixIconsRunning": false
+    "materialTheme.fixIconsRunning": false,
+    "liveshare.guestApprovalRequired": true
 }
