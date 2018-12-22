@@ -6,12 +6,12 @@
         "accent": "Breaking Bad",
         "accentPrevious": "Orange"
     },
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.iconTheme": "vscode-icons",
     "editor.lineHeight": 24,
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Night Owl",
+    "workbench.colorTheme": "Palenight Theme",
     "workbench.colorCustomizations": {
         "activityBarBadge.background": "#388E3C",
         "list.activeSelectionForeground": "#388E3C",
@@ -26,5 +26,6 @@
         "notificationLink.foreground": "#388E3C"
     },
     "materialTheme.fixIconsRunning": false,
-    "liveshare.guestApprovalRequired": true
+    "liveshare.guestApprovalRequired": true,
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace"
 }
