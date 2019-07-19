@@ -6,7 +6,6 @@
         "accent": "Breaking Bad",
         "accentPrevious": "Orange"
     },
-    "workbench.iconTheme": "vscode-icons",
     "editor.lineHeight": 24,
     "editor.fontSize": 14,
     "editor.fontLigatures": true,

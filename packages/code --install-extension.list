@@ -4,9 +4,12 @@ akamud.vscode-theme-onedark
 akamud.vscode-theme-onelight
 alexkrechik.cucumberautocomplete
 codezombiech.gitignore
+CoenraadS.bracket-pair-colorizer-2
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
+donjayamanne.githistory
 dssiqueira.drupal-8-snippets
+eamodio.gitlens
 Equinusocio.vsc-material-theme
 felixfbecker.php-debug
 felixfbecker.php-intellisense
@@ -21,10 +24,12 @@ marcostazi.VS-code-drupal
 mechatroner.rainbow-csv
 mikestead.dotenv
 ms-azuretools.vscode-cosmosdb
+ms-azuretools.vscode-docker
+ms-kubernetes-tools.vscode-kubernetes-tools
 ms-python.python
 ms-vscode.azure-account
 ms-vsliveshare.vsliveshare
-PeterJausovec.vscode-docker
+oderwat.indent-rainbow
 PKief.material-icon-theme
 pnp.polacode
 robinbentley.sass-indented
@@ -33,5 +38,8 @@ shd101wyy.markdown-preview-enhanced
 taniarascia.new-moon-vscode
 tootone.org-mode
 twxs.cmake
+vscode-icons-team.vscode-icons
 whizkydee.material-palenight-theme
+wix.vscode-import-cost
+yzane.markdown-pdf
 yzhang.markdown-all-in-one
