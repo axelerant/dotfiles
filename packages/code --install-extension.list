@@ -18,10 +18,13 @@ formulahendry.auto-rename-tag
 hollowtree.vue-snippets
 ikappas.composer
 ikappas.phpcs
+ivory-lab.jenkinsfile-support
 joaompinto.asciidoctor-vscode
+johnpapa.vscode-peacock
 liuji-jim.vue
 marcostazi.VS-code-drupal
 mechatroner.rainbow-csv
+mhutchie.git-graph
 mikestead.dotenv
 ms-azuretools.vscode-cosmosdb
 ms-azuretools.vscode-docker
@@ -32,6 +35,7 @@ ms-vsliveshare.vsliveshare
 oderwat.indent-rainbow
 PKief.material-icon-theme
 pnp.polacode
+redhat.vscode-yaml
 robinbentley.sass-indented
 sdras.night-owl
 shd101wyy.markdown-preview-enhanced
