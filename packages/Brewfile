@@ -34,7 +34,7 @@ cask "google-chrome"
 cask "firefox"
 
 # Work Tools
-cask "dropbox"
+#cask "dropbox"
 cask "slack"
 cask "zoomus"
 
@@ -63,6 +63,7 @@ brew "ffmpeg"
 brew "fx"
 brew "fish"
 brew "git"
+brew "git-extras"
 brew "gnupg"
 brew "gnu-sed", args: ["with-default-names"]
 brew "gpatch"
